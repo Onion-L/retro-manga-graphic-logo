@@ -3,6 +3,8 @@
 A skill for creating original character logos in a high-contrast, retro
 Japanese manga style.
 
+![Retro manga graphic logo examples](assets/retro-manga-graphic-logo.png)
+
 ## Features
 
 - Pure black and white with extreme contrast
