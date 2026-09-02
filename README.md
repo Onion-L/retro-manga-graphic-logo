@@ -1,18 +1,21 @@
 # Retro Manga Graphic Logo
 
-一个用于生成原创复古日漫风格图形 Logo 的 Codex skill。
+A skill for creating original character logos in a high-contrast, retro
+Japanese manga style.
 
-## 特点
+## Features
 
-- 纯黑白、高对比度
-- 1:1 方形构图
-- 粗体、平面化、易识别的图形轮廓
-- 复古漫画、丝网印刷和木刻版画风格
-- 白色实体背景，不使用透明通道
-- 优先保证 Logo 在小尺寸下仍然清晰
+- Pure black and white with extreme contrast
+- Square 1:1 composition
+- Bold, flat, and recognizable silhouettes
+- Retro manga, screen-print, and linocut-inspired shapes
+- Fully opaque white background with no transparency
+- Clear readability at small icon sizes
 
-## 适用场景
+## Use Cases
 
-适合创建人物、吉祥物、动物、机器人等原创角色 Logo。不会直接复制参考角色的身份、脸型、发型、服装或构图。
+Create original character logos for people, mascots, animals, robots, and
+other subjects. The skill avoids copying a reference character's identity,
+face, hairstyle, clothing, pose, or composition.
 
-详细规则请参阅 [SKILL.md](SKILL.md)。
+See [SKILL.md](SKILL.md) for the complete instructions.
